@@ -1,0 +1,47 @@
+{
+    "name": "oshidori-wings",
+    "version": "1.0.0",
+    "description": "Oshidori-wings is an open source palette, which can be used in any desktop, mobile or web applications.",
+    "license": "Licensed under the Apache License, Version 2.0. Copyright 2019 Oshidori LLC. All Rights Reserved.",
+    "palette": [
+        {"color": "#8a8a8a", "name": "Morning shadows"},
+
+        {"color": "#f34121", "name": "Orange chips"},
+        {"color": "#e9352c", "name": "Jam reality"},
+        {"color": "#e82d57", "name": "Summer outfit"},
+
+        {"color": "#ecca28", "name": "Sun flavor"},
+        {"color": "#e6982f", "name": "Surface light"},
+        {"color": "#ef7b25", "name": "Peach ink"},
+
+        {"color": "#22f285", "name": "Hello cactus"},
+        {"color": "#21f360", "name": "Salad space"},
+        {"color": "#6cad67", "name": "Pear-to-pear"},
+
+        {"color": "#5379c1", "name": "Ocean loop"},
+        {"color": "#4087d5", "name": "Neural protocol"},
+        {"color": "#21baf3", "name": "Yummy cloud"},
+        {"color": "#28ecdd", "name": "Zero privacy"},
+
+        {"color": "#f3217a", "name": "Cranberry gold"},
+        {"color": "#f321af", "name": "Omnia"},
+        {"color": "#db39d7", "name": "Party pixel"},
+        {"color": "#c5506d", "name": "Penny pink"},
+
+        {"color": "#bd578a", "name": "Matrix bias"},
+        {"color": "#bd57a6", "name": "Jellyfish system"},
+        {"color": "#b857bd", "name": "Velvet silk"},
+        {"color": "#a55aba", "name": "Artificial magic"},
+        {"color": "#8a61b4", "name": "Prime unit"},
+        {"color": "#7761b4", "name": "Quantum sketch"},
+        {"color": "#6163b4", "name": "Electronic galaxy"},
+
+        {"color": "#6da78d", "name": "Lost layer"},
+        {"color": "#70a58a", "name": "Tofu and Wasabi"},
+        {"color": "#70a5a3", "name": "Underwater silence"},
+        {"color": "#659baf", "name": "Calm wavelength"},
+        {"color": "#6d76a7", "name": "Sky shift"},
+        {"color": "#76869e", "name": "Ninja time"},
+        {"color": "#93ac68", "name": "Fable mint"}
+    ]
+}
